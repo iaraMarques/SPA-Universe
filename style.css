@@ -124,7 +124,7 @@ p {
 }
 
 .bold {
-    color: #FFFFFF;
+    color: var( --text-color-primary);
     font-weight: bold;
     font-size: 2.4rem;
     line-height: 2.2rem;
