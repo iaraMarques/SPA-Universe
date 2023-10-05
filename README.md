@@ -47,13 +47,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://spa-universe-iaramarques.vercel.app)
 
 <br/>
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate?type=design&mode=design). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. 
 <div>
   <img align="centeer" alt"FIGMA" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
